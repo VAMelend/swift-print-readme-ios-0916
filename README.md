@@ -16,7 +16,7 @@ We'll use the print function to print and output strings and variables to your s
 * Create a sentence to store in a variable using string interpolation
 
 ## Printing Values
-
+## Johann was here
 When learning Swift, one of the most basic things you'll no doubt want to do is print stuff to the screen. Even once you know Swift inside and out, displaying strings, numbers, and other data on the screen is one of the most fundamental things you'll need to do on a regular basis, because what good is a program that never presents any information to its users?
 
 In Swift, you can print a variable or a constant to the screen using the `print()` function. Let's see that in action by creating a playground file, as you learned in the last lesson.
